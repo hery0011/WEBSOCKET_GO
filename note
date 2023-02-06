@@ -1,0 +1,9 @@
+ velomina n serveur "go run main.go"
+ testena am postman
+ miditra onglet websocket
+ raw: rehefa websocket
+ socket.io: rehefa socket.io
+ otranizao n form URL=>ws://localhost:8080/ws
+ de connect av eo
+ 
+ r handefa param dia soratana eo am message de send
